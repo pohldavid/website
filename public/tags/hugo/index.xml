@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on David G. Pohl</title>
+    <link>https://python.raspberrybarn.com/tags/hugo/</link>
+    <description>Recent content in hugo on David G. Pohl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Dec 2023 04:12:58 -0600</lastBuildDate>
+    <atom:link href="https://python.raspberrybarn.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insert File Shortcode</title>
+      <link>https://python.raspberrybarn.com/posts/insert-file/</link>
+      <pubDate>Thu, 21 Dec 2023 04:12:58 -0600</pubDate>
+      <guid>https://python.raspberrybarn.com/posts/insert-file/</guid>
+      <description>Insert another file into a content file Note to self:&#xA;Here&amp;rsquo;s an example shortcode to insert the contents of one file into another.&#xA;In /layouts/shortcodes/ create a file with the code</description>
+    </item>
+  </channel>
+</rss>

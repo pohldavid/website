@@ -1,0 +1,40 @@
+
+
+baseURL = 'https://python.raspberrybarn.com/'
+languageCode = 'en-us'
+title = 'David G. Pohl'
+theme = 'mainroad'
+
+summaryLength = 30
+
+sectionPagesMenu = 'main'
+
+highlightColor = "#500000"
+
+[Author] # Used in authorbox
+  name = "David Pohl"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  avatar = "img/avatar.png"
+
+[Params.author.name]
+	name = "Dave"
+
+[Params]
+  description = "A cool static site for me."
+  authorbox = false
+  variable = "this is a varable define in hugo.toml Params"
+  
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.logo]
+  image = "bar-crazy-L.png"
+  title = "David G Pohl"
+  subtitle = "A site for sore eyes"
+
+  [Params.style.vars]
+    highlightColor = "#500000" # Aggie Maroon

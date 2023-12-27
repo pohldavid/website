@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on David G. Pohl</title>
+    <link>https://python.raspberrybarn.com/projects/</link>
+    <description>Recent content in Projects on David G. Pohl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Dec 2023 05:22:32 -0600</lastBuildDate>
+    <atom:link href="https://python.raspberrybarn.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nothing to See Here</title>
+      <link>https://python.raspberrybarn.com/projects/nothing-to-see-here/</link>
+      <pubDate>Fri, 22 Dec 2023 05:22:32 -0600</pubDate>
+      <guid>https://python.raspberrybarn.com/projects/nothing-to-see-here/</guid>
+      <description>There is no project here.</description>
+    </item>
+    <item>
+      <title>Raspberry Cat Feeder</title>
+      <link>https://python.raspberrybarn.com/projects/raspberry-cat-feeder/</link>
+      <pubDate>Sun, 17 Dec 2023 04:51:52 -0600</pubDate>
+      <guid>https://python.raspberrybarn.com/projects/raspberry-cat-feeder/</guid>
+      <description>The Raspberry Cat Feeder is a an automatic cat feeder powered by &lt;a href=&#34;https://www.raspberrypi.com/&#34; title=&#34;raspberrypi.com&#34;&gt;Raspberry Pi&lt;/a&gt;.</description>
+    </item>
+  </channel>
+</rss>
