@@ -1,6 +1,6 @@
 
 
-baseURL = 'https://python.raspberrybarn.com/'
+baseURL = 'davidgpohl.com/'
 languageCode = 'en-us'
 title = 'David G. Pohl'
 theme = 'mainroad'
