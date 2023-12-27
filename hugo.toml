@@ -36,5 +36,13 @@ highlightColor = "#500000"
   title = "David G Pohl"
   subtitle = "A site for sore eyes"
 
-  [Params.style.vars]
-    highlightColor = "#500000" # Aggie Maroon
+[Params.style.vars]
+  highlightColor = "#500000" # Aggie Maroon
+  
+[Params.widgets.search]
+  cached = false # activate cache if true
+  url = "https://google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""
+
