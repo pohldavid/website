@@ -2,7 +2,7 @@
 title = 'Insert File Shortcode'
 date = 2023-12-21T04:12:58-06:00
 draft = false
-tags = ['hugo']
+tags = []
 +++
 
 

@@ -3,6 +3,7 @@
 title = 'Pumpkin Pie Ice Cream'
 date = 2023-12-16T07:08:38-06:00
 draft = false
+tags = ["recipes"]
 summary = "It's nice"
 +++
 

@@ -83,7 +83,11 @@ def feed():
 
 The web interface uses the NiceGUI framework .... to be continued
 
-[github repository](https://github.com/pohldavid/cat-feeder.git)
+{{< alert >}}
+**Not Done!** Yes I know - I'll get to it!
+{{< /alert >}}
+
+{{< icon "github" >}}  [github repository](https://github.com/pohldavid/cat-feeder.git)
 
 ---
 

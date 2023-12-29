@@ -10,6 +10,6 @@ This is my first post using Hugo.
 
 This is an image:
 
-{{< img src="2023/PXL20231214121139289.jpg" alt="Sunrise">}}
+{{< img src="/uploads/2023/PXL20231214121139289.jpg" alt="Sunrise">}}
 
 Visit the [Hugo](https://gohugo.io) website!

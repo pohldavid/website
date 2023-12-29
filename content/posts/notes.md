@@ -5,22 +5,17 @@ draft = false
 summary = 'notes for me on Hugo and this website'
 +++
 
-##  Notes
 
-- Good introductory article on Hugo at [Kinsta](https://kinsta.com/blog/hugo-static-site/)
-
-## To Do
-
-- [ ] insert table into post from file
 - [ ] bp/weight
-  - [ ] make .md table from csv python 
-  - [ ] automate update to /static (or wherever) -> pathlib
-  - [ ] plot (perhaps a better way than numpy; matplotlib)
+  - [x] make .md table from csv in python 
+  - [ ] automate update to /static (or wherever)
+  - [ ] plot (perhaps a better way than numpy; matplotlib) - probably [this](https://jpanther.github.io/congo/samples/charts/)
+  - [x] insert table into post from file
 - [ ] how to insert photo from google drive/photos ???
-- [ ]  -or- how to post from phone
+- [ ]  -or- how to post from phone (its looking like edit on github...)
 - [X] highlightColor = "#500000" (not sure if this is fixed correctly - hugo.toml or theme .css)
-- [ ] fix summary
-- [ ] implement search
-- [ ] implement code blocks with syntax highlighting
+- [ ] implement code blocks with syntax highlighting. see [here](https://jpanther.github.io/congo/samples/markdown/#code-block-with-hugos-internal-highlight-shortcode)
 - [ ] site icon / avatar
 - [ ] fix about / author
+
+- [ ] subdomain: cattle.davidgpohl.com

@@ -2,6 +2,7 @@
 title = 'Jiffy Corn Casserole'
 date = 2023-12-17T14:29:32-06:00
 draft = false
+tags = ["recipes"]
 summary = 'Yummy side for the holidays'
 +++
 
