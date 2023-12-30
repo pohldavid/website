@@ -4,4 +4,4 @@ date = 2023-12-25T07:20:40-06:00
 draft = false
 +++
 
-This post was generated using the cattle archetype
+{{< figure src="uploads/2023/RedFenceJumper.jpg" title="An elephant at sunset" >}}

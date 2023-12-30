@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cattle on David G. Pohl</title>
-    <link>https://python.raspberrybarn.com/cattle/</link>
-    <description>Recent content in Cattle on David G. Pohl</description>
+    <title>Cattle on David G Pohl</title>
+    <link>https://davidgpohl.com/cattle/</link>
+    <description>Recent content in Cattle on David G Pohl</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 22 Dec 2023 05:05:42 -0600</lastBuildDate>
-    <atom:link href="https://python.raspberrybarn.com/cattle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidgpohl.com/cattle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Cow</title>
-      <link>https://python.raspberrybarn.com/cattle/a-cow/</link>
+      <link>https://davidgpohl.com/cattle/a-cow/</link>
       <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
-      <guid>https://python.raspberrybarn.com/cattle/a-cow/</guid>
+      <guid>https://davidgpohl.com/cattle/a-cow/</guid>
+      <description>This post was generated using the cattle archetype</description>
+    </item>
+    <item>
+      <title>Red Fence Jumper</title>
+      <link>https://davidgpohl.com/cattle/fence_jumper/</link>
+      <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
+      <guid>https://davidgpohl.com/cattle/fence_jumper/</guid>
       <description>This post was generated using the cattle archetype</description>
     </item>
   </channel>

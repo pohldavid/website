@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on David G. Pohl</title>
-    <link>https://python.raspberrybarn.com/posts/</link>
-    <description>Recent content in Posts on David G. Pohl</description>
+    <title>Not really a blog on David G Pohl</title>
+    <link>https://davidgpohl.com/posts/</link>
+    <description>Recent content in Not really a blog on David G Pohl</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 21 Dec 2023 04:12:58 -0600</lastBuildDate>
-    <atom:link href="https://python.raspberrybarn.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidgpohl.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insert File Shortcode</title>
-      <link>https://python.raspberrybarn.com/posts/insert-file/</link>
+      <link>https://davidgpohl.com/posts/insert-file/</link>
       <pubDate>Thu, 21 Dec 2023 04:12:58 -0600</pubDate>
-      <guid>https://python.raspberrybarn.com/posts/insert-file/</guid>
-      <description>Insert another file into a content file Note to self:&#xA;Here&amp;rsquo;s an example shortcode to insert the contents of one file into another.&#xA;In /layouts/shortcodes/ create a file with the code</description>
+      <guid>https://davidgpohl.com/posts/insert-file/</guid>
+      <description>Insert another file into a content file #Note to self:</description>
     </item>
     <item>
       <title>Weight / Pressure Log</title>
-      <link>https://python.raspberrybarn.com/posts/weight/</link>
+      <link>https://davidgpohl.com/posts/weight/</link>
       <pubDate>Mon, 18 Dec 2023 10:40:19 -0600</pubDate>
-      <guid>https://python.raspberrybarn.com/posts/weight/</guid>
+      <guid>https://davidgpohl.com/posts/weight/</guid>
       <description>A system for tracking weight and pressure</description>
     </item>
     <item>
       <title>Notes to self</title>
-      <link>https://python.raspberrybarn.com/posts/notes/</link>
+      <link>https://davidgpohl.com/posts/notes/</link>
       <pubDate>Sun, 17 Dec 2023 12:51:57 -0600</pubDate>
-      <guid>https://python.raspberrybarn.com/posts/notes/</guid>
+      <guid>https://davidgpohl.com/posts/notes/</guid>
       <description>notes for me on Hugo and this website</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://python.raspberrybarn.com/posts/my-first-post/</link>
+      <link>https://davidgpohl.com/posts/my-first-post/</link>
       <pubDate>Sat, 16 Dec 2023 07:06:27 -0600</pubDate>
-      <guid>https://python.raspberrybarn.com/posts/my-first-post/</guid>
-      <description>New Static Site This is my first post using Hugo.&#xA;This is an image:&#xA;Visit the Hugo website!</description>
+      <guid>https://davidgpohl.com/posts/my-first-post/</guid>
+      <description>New Static Site #This is my first post using Hugo.</description>
     </item>
     <item>
       <title>Freak tree</title>
-      <link>https://python.raspberrybarn.com/posts/shake-the-freak-tree/</link>
+      <link>https://davidgpohl.com/posts/shake-the-freak-tree/</link>
       <pubDate>Sat, 16 Dec 2023 07:06:27 -0600</pubDate>
-      <guid>https://python.raspberrybarn.com/posts/shake-the-freak-tree/</guid>
-      <description>Shake Shake the freak tree.</description>
+      <guid>https://davidgpohl.com/posts/shake-the-freak-tree/</guid>
+      <description>Shake #Shake the freak tree.</description>
     </item>
   </channel>
 </rss>
