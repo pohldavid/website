@@ -1,0 +1,7 @@
+write to .md table
+reverse order
+make backup files
+
+insert table into weight .md for hugo content
+
+source code on hugo page
