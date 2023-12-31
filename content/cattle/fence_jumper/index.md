@@ -5,8 +5,8 @@ draft = false
 tags =['cow', 'red']
 +++
 
-This post was generated using the cattle archetype
 
 
-{{<img src="/uploads/2023/PXL_20231016_222452837.jpg" alt="fence jumper">}}
-
+<!--
+![Alt text](/uploads/2023/RedFenceJumper.jpg "Fence Jumper")
+-->

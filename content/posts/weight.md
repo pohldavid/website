@@ -9,16 +9,6 @@ summary = 'A system for tracking weight and pressure'
 
 {{% weightmd %}}
 
-{{< chart >}}
-type: 'bar',
-data: {
-  labels: ['Tomato', 'Blueberry', 'Banana', 'Lime', 'Orange'],
-  datasets: [{
-    label: '# of votes',
-    data: [12, 19, 3, 5, 3],
-  }]
-}
-{{< /chart >}}
 
 ## BP
 
