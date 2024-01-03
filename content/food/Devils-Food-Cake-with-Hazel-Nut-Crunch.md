@@ -3,6 +3,7 @@ title = "Devils Food Cake with Hazelnut Crunch"
 Date = "2023-12-21"
 draft = "false"
 tags = ["recipes"]
+image = "/uploads/2023/barcrazyL-Logo.png"
 summary = "my birthday cake this year"
 +++
 
