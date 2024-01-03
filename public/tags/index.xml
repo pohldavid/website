@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on David G Pohl</title>
+    <link>https://davidgpohl.com/tags/</link>
+    <description>Recent content in Tags on David G Pohl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Dec 2023 07:20:40 -0600</lastBuildDate>
+    <atom:link href="https://davidgpohl.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cow</title>
+      <link>https://davidgpohl.com/tags/cow/</link>
+      <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
+      <guid>https://davidgpohl.com/tags/cow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>red</title>
+      <link>https://davidgpohl.com/tags/red/</link>
+      <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
+      <guid>https://davidgpohl.com/tags/red/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recipes</title>
+      <link>https://davidgpohl.com/tags/recipes/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidgpohl.com/tags/recipes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
