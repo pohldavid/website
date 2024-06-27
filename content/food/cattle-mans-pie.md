@@ -1,5 +1,5 @@
 +++
-title = 'Cattle Mans Pie'
+title = 'Cattle Man's Pie'
 date = 2023-12-17T12:51:57-06:00
 draft = false
 tags = ["recipes"]
@@ -30,6 +30,6 @@ My evolving work-in-progress version of the traditonal Sheppard's version
 
 1. Brown and season the meat.
 
-2. In an appropriate sided cassserole dish, layer the ingredients in the order listed.
+2. In an appropriate sized cassserole dish, layer the ingredients in the order listed.
 
-3. Bake at some temperature until bubbly and cheese is melted.  JK - maybe bake then add cheese at end???
+3. Bake at some temperature (350 ?) until bubbly and cheese is melted.  JK - maybe bake then add cheese at end???
