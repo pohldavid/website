@@ -1,5 +1,5 @@
 +++
-title = 'Cattle Man's Pie'
+title = "Cattle Man's Pie"
 date = 2023-12-17T12:51:57-06:00
 draft = false
 tags = ["recipes"]
