@@ -2,102 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on David G Pohl</title>
-    <link>https://davidgpohl.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Introduction on David G Pohl</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidgpohl.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sherrie&#39;s Dad&#39;s Dry Rub</title>
+      <link>http://localhost:1313/food/sherries-dads-dry-rub/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/food/sherries-dads-dry-rub/</guid>
+      <description>Use on ribs, pork loin etc.</description>
+    </item>
     <item>
       <title>Cow 1</title>
-      <link>https://davidgpohl.com/cattle/cow-_1/</link>
+      <link>http://localhost:1313/cattle/cow-_1/</link>
       <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
-      <guid>https://davidgpohl.com/cattle/cow-_1/</guid>
-      <description>Cow 1</description>
+      <guid>http://localhost:1313/cattle/cow-_1/</guid>
+      <description>Cow 1&#xA;This is s a cow?</description>
     </item>
     <item>
       <title>Red Fence Jumper</title>
-      <link>https://davidgpohl.com/cattle/fence_jumper/</link>
+      <link>http://localhost:1313/cattle/fence_jumper/</link>
       <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
-      <guid>https://davidgpohl.com/cattle/fence_jumper/</guid>
-      <description>She jumps the fence.</description>
+      <guid>http://localhost:1313/cattle/fence_jumper/</guid>
+      <description>She jumps the fence. Sell her.</description>
     </item>
     <item>
       <title>Nothing to See Here</title>
-      <link>https://davidgpohl.com/projects/nothing-to-see-here/</link>
+      <link>http://localhost:1313/projects/nothing-to-see-here/</link>
       <pubDate>Fri, 22 Dec 2023 05:22:32 -0600</pubDate>
-      <guid>https://davidgpohl.com/projects/nothing-to-see-here/</guid>
+      <guid>http://localhost:1313/projects/nothing-to-see-here/</guid>
       <description>There is no project here.</description>
     </item>
     <item>
       <title>Insert File Shortcode</title>
-      <link>https://davidgpohl.com/posts/insert-file/</link>
+      <link>http://localhost:1313/posts/insert-file/</link>
       <pubDate>Thu, 21 Dec 2023 04:12:58 -0600</pubDate>
-      <guid>https://davidgpohl.com/posts/insert-file/</guid>
+      <guid>http://localhost:1313/posts/insert-file/</guid>
       <description>Insert another file into a content file #Note to self:</description>
     </item>
     <item>
       <title>Devils Food Cake with Hazelnut Crunch</title>
-      <link>https://davidgpohl.com/food/devils-food-cake-with-hazel-nut-crunch/</link>
+      <link>http://localhost:1313/food/devils-food-cake-with-hazel-nut-crunch/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidgpohl.com/food/devils-food-cake-with-hazel-nut-crunch/</guid>
+      <guid>http://localhost:1313/food/devils-food-cake-with-hazel-nut-crunch/</guid>
       <description>my birthday cake this year</description>
     </item>
     <item>
       <title>Weight / Pressure Log</title>
-      <link>https://davidgpohl.com/posts/weight/</link>
+      <link>http://localhost:1313/posts/weight/</link>
       <pubDate>Mon, 18 Dec 2023 10:40:19 -0600</pubDate>
-      <guid>https://davidgpohl.com/posts/weight/</guid>
+      <guid>http://localhost:1313/posts/weight/</guid>
       <description>A system for tracking weight and pressure</description>
     </item>
     <item>
       <title>Jiffy Corn Casserole</title>
-      <link>https://davidgpohl.com/food/jiffy-corn-casserole/</link>
+      <link>http://localhost:1313/food/jiffy-corn-casserole/</link>
       <pubDate>Sun, 17 Dec 2023 14:29:32 -0600</pubDate>
-      <guid>https://davidgpohl.com/food/jiffy-corn-casserole/</guid>
+      <guid>http://localhost:1313/food/jiffy-corn-casserole/</guid>
       <description>Yummy side for the holidays</description>
     </item>
     <item>
-      <title>Cattle Mans Pie</title>
-      <link>https://davidgpohl.com/food/cattle-mans-pie/</link>
+      <title>Cattle Man&#39;s Pie</title>
+      <link>http://localhost:1313/food/cattle-mans-pie/</link>
       <pubDate>Sun, 17 Dec 2023 12:51:57 -0600</pubDate>
-      <guid>https://davidgpohl.com/food/cattle-mans-pie/</guid>
+      <guid>http://localhost:1313/food/cattle-mans-pie/</guid>
       <description>My evolving work-in-progress version of the tradional Sheppard&amp;rsquo;s version</description>
     </item>
     <item>
       <title>Notes to self</title>
-      <link>https://davidgpohl.com/posts/notes/</link>
+      <link>http://localhost:1313/posts/notes/</link>
       <pubDate>Sun, 17 Dec 2023 12:51:57 -0600</pubDate>
-      <guid>https://davidgpohl.com/posts/notes/</guid>
+      <guid>http://localhost:1313/posts/notes/</guid>
       <description>notes for me on Hugo and this website</description>
     </item>
     <item>
-      <title>Raspberry Cat Feeder</title>
-      <link>https://davidgpohl.com/projects/raspberry-cat-feeder/</link>
-      <pubDate>Sun, 17 Dec 2023 04:51:52 -0600</pubDate>
-      <guid>https://davidgpohl.com/projects/raspberry-cat-feeder/</guid>
-      <description>The Raspberry Cat Feeder is a an automatic cat feeder powered by &lt;a href=&#34;https://www.raspberrypi.com/&#34; title=&#34;raspberrypi.com&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Raspberry Pi&lt;/a&gt;.</description>
-    </item>
-    <item>
       <title>Pumpkin Pie Ice Cream</title>
-      <link>https://davidgpohl.com/food/pumpkin-pie-ice-cream/</link>
+      <link>http://localhost:1313/food/pumpkin-pie-ice-cream/</link>
       <pubDate>Sat, 16 Dec 2023 07:08:38 -0600</pubDate>
-      <guid>https://davidgpohl.com/food/pumpkin-pie-ice-cream/</guid>
+      <guid>http://localhost:1313/food/pumpkin-pie-ice-cream/</guid>
       <description>It&amp;rsquo;s nice</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://davidgpohl.com/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 16 Dec 2023 07:06:27 -0600</pubDate>
-      <guid>https://davidgpohl.com/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>New Static Site #This is my first post using Hugo.</description>
-    </item>
-    <item>
-      <title>Freak tree</title>
-      <link>https://davidgpohl.com/posts/shake-the-freak-tree/</link>
-      <pubDate>Sat, 16 Dec 2023 07:06:27 -0600</pubDate>
-      <guid>https://davidgpohl.com/posts/shake-the-freak-tree/</guid>
-      <description>Shake #Shake the freak tree.</description>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@ import shutil
 
 
 
-destination_path = '/home/dave/Desktop/website/static/weight-bp/'
+destination_path = '/home/dave/Desktop/projects/website/static/weight-bp/'
 
 files = ['bp.md', 'weight.md']
 

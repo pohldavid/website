@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cattle on David G Pohl</title>
-    <link>https://davidgpohl.com/cattle/</link>
+    <link>http://localhost:1313/cattle/</link>
     <description>Recent content in Cattle on David G Pohl</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 05:05:42 -0600</lastBuildDate>
-    <atom:link href="https://davidgpohl.com/cattle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Dec 2023 07:20:40 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/cattle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cow 1</title>
-      <link>https://davidgpohl.com/cattle/cow-_1/</link>
+      <link>http://localhost:1313/cattle/cow-_1/</link>
       <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
-      <guid>https://davidgpohl.com/cattle/cow-_1/</guid>
-      <description>Cow 1</description>
+      <guid>http://localhost:1313/cattle/cow-_1/</guid>
+      <description>Cow 1&#xA;This is s a cow?</description>
     </item>
     <item>
       <title>Red Fence Jumper</title>
-      <link>https://davidgpohl.com/cattle/fence_jumper/</link>
+      <link>http://localhost:1313/cattle/fence_jumper/</link>
       <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
-      <guid>https://davidgpohl.com/cattle/fence_jumper/</guid>
-      <description>She jumps the fence.</description>
+      <guid>http://localhost:1313/cattle/fence_jumper/</guid>
+      <description>She jumps the fence. Sell her.</description>
     </item>
   </channel>
 </rss>

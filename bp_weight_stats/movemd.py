@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import pathlib
 
 from pathlib import Path

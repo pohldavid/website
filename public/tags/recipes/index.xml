@@ -1,39 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>recipes on David G Pohl</title>
-    <link>https://davidgpohl.com/tags/recipes/</link>
-    <description>Recent content in recipes on David G Pohl</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Recipes on David G Pohl</title>
+    <link>http://localhost:1313/tags/recipes/</link>
+    <description>Recent content in Recipes on David G Pohl</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidgpohl.com/tags/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sherrie&#39;s Dad&#39;s Dry Rub</title>
+      <link>http://localhost:1313/food/sherries-dads-dry-rub/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/food/sherries-dads-dry-rub/</guid>
+      <description>Use on ribs, pork loin etc.</description>
+    </item>
     <item>
       <title>Devils Food Cake with Hazelnut Crunch</title>
-      <link>https://davidgpohl.com/food/devils-food-cake-with-hazel-nut-crunch/</link>
+      <link>http://localhost:1313/food/devils-food-cake-with-hazel-nut-crunch/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://davidgpohl.com/food/devils-food-cake-with-hazel-nut-crunch/</guid>
+      <guid>http://localhost:1313/food/devils-food-cake-with-hazel-nut-crunch/</guid>
       <description>my birthday cake this year</description>
     </item>
     <item>
       <title>Jiffy Corn Casserole</title>
-      <link>https://davidgpohl.com/food/jiffy-corn-casserole/</link>
+      <link>http://localhost:1313/food/jiffy-corn-casserole/</link>
       <pubDate>Sun, 17 Dec 2023 14:29:32 -0600</pubDate>
-      <guid>https://davidgpohl.com/food/jiffy-corn-casserole/</guid>
+      <guid>http://localhost:1313/food/jiffy-corn-casserole/</guid>
       <description>Yummy side for the holidays</description>
     </item>
     <item>
-      <title>Cattle Mans Pie</title>
-      <link>https://davidgpohl.com/food/cattle-mans-pie/</link>
+      <title>Cattle Man&#39;s Pie</title>
+      <link>http://localhost:1313/food/cattle-mans-pie/</link>
       <pubDate>Sun, 17 Dec 2023 12:51:57 -0600</pubDate>
-      <guid>https://davidgpohl.com/food/cattle-mans-pie/</guid>
+      <guid>http://localhost:1313/food/cattle-mans-pie/</guid>
       <description>My evolving work-in-progress version of the tradional Sheppard&amp;rsquo;s version</description>
     </item>
     <item>
       <title>Pumpkin Pie Ice Cream</title>
-      <link>https://davidgpohl.com/food/pumpkin-pie-ice-cream/</link>
+      <link>http://localhost:1313/food/pumpkin-pie-ice-cream/</link>
       <pubDate>Sat, 16 Dec 2023 07:08:38 -0600</pubDate>
-      <guid>https://davidgpohl.com/food/pumpkin-pie-ice-cream/</guid>
+      <guid>http://localhost:1313/food/pumpkin-pie-ice-cream/</guid>
       <description>It&amp;rsquo;s nice</description>
     </item>
   </channel>

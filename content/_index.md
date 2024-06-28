@@ -4,9 +4,12 @@ date: 2023-12-28
 type: docs
 ---
 
-# Starting a new site
+# Welcome to my site.
 
-This site is young.  As I move out on the learning curve with this platform I hope to add lots more content.
+## This site is young.
 
-This time I'm using [Hugo](https://gohugo.io/).  Last attempt was with [Pelican](https://getpelican.com/) but I found it far inferior.
+Last time I tried to do a static site I was using [Pelican](https://getpelican.com/) but found it inferior.  This time I'm using [Hugo](https://gohugo.io/).
+
+As I move out on the learning curve with this platform I hope to add lots more content.
+
 

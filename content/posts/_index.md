@@ -2,4 +2,4 @@
 title = "Not really a blog"
 +++
 
-All posts live here.
+Probably more like notes and how-tos.

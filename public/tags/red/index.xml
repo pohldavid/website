@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>red on David G Pohl</title>
-    <link>https://davidgpohl.com/tags/red/</link>
-    <description>Recent content in red on David G Pohl</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Red on David G Pohl</title>
+    <link>http://localhost:1313/tags/red/</link>
+    <description>Recent content in Red on David G Pohl</description>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Dec 2023 07:20:40 -0600</lastBuildDate>
-    <atom:link href="https://davidgpohl.com/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/red/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Red Fence Jumper</title>
-      <link>https://davidgpohl.com/cattle/fence_jumper/</link>
+      <link>http://localhost:1313/cattle/fence_jumper/</link>
       <pubDate>Mon, 25 Dec 2023 07:20:40 -0600</pubDate>
-      <guid>https://davidgpohl.com/cattle/fence_jumper/</guid>
-      <description>She jumps the fence.</description>
+      <guid>http://localhost:1313/cattle/fence_jumper/</guid>
+      <description>She jumps the fence. Sell her.</description>
     </item>
   </channel>
 </rss>

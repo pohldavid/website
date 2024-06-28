@@ -1,8 +1,9 @@
 +++
 title = 'Raspberry Cat Feeder'
 date = 2023-12-17T04:51:52-06:00
-draft = false
+draft = true
 summary = 'The Raspberry Cat Feeder is a an automatic cat feeder powered by [Raspberry Pi](https://www.raspberrypi.com/ "raspberrypi.com"). '
+tags=['projects', 'raspberry pi']
 +++
 
 The Raspberry Cat Feeder is a an automatic cat feeder powered by [Raspberry Pi](https://www.raspberrypi.com/ "raspberrypi.com").  The [rcf] can be programmed to feed at prescribed intervals or on demand through a web interface.  
