@@ -6,8 +6,15 @@
     <description>Recent content in Tags on David G Pohl</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 16:46:50 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cow</title>
+      <link>http://localhost:1313/tags/cow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cow/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Recipes</title>
       <link>http://localhost:1313/tags/recipes/</link>
@@ -20,13 +27,6 @@
       <link>http://localhost:1313/tags/black/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/black/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cow</title>
-      <link>http://localhost:1313/tags/cow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cow/</guid>
       <description></description>
     </item>
     <item>

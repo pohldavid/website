@@ -6,11 +6,48 @@
   
     
       <url>
-            <loc>http://localhost:1313/food/sherries-dads-dry-rub/</loc>
-            <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+            <loc>http://localhost:1313/cattle/cow/</loc>
+            <lastmod>2024-07-01T16:46:50-06:00</lastmod>
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/hurricane/</loc>
+            <lastmod>2024-07-01T06:41:43-06:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/markdown-cheat-sheet/</loc>
+            <lastmod>2024-07-01T06:41:43-06:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2024-07-01T06:41:43-06:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/greek/</loc>
+            <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/food/sherries-dads-dry-rub/</loc>
+            <lastmod>2024-05-21T00:00:00+00:00</lastmod>
+          </url>
     
   
     
@@ -25,8 +62,6 @@
             <loc>http://localhost:1313/</loc>
             <lastmod>2023-12-28T00:00:00+00:00</lastmod>
           </url>
-    
-  
     
   
     
@@ -84,13 +119,6 @@
   
     
       <url>
-            <loc>http://localhost:1313/posts/</loc>
-            <lastmod>2023-12-21T04:12:58-06:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/food/devils-food-cake-with-hazel-nut-crunch/</loc>
             <lastmod>2023-12-21T00:00:00+00:00</lastmod>
           </url>
@@ -135,6 +163,13 @@
       <url>
             <loc>http://localhost:1313/posts/my-first-post/</loc>
             <lastmod>2023-12-16T07:06:27-06:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/food/wolf-brand-chili/</loc>
+            <lastmod>2020-06-26T00:00:00+00:00</lastmod>
           </url>
     
   

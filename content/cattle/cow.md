@@ -1,6 +1,6 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
+title = 'Cow'
+date = 2024-07-01T16:46:50-06:00
 draft = false
 tags = ["cow"]
 +++

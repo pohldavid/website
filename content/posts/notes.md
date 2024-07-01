@@ -19,3 +19,4 @@ summary = 'notes for me on Hugo and this website'
 - [ ] fix about / author
 
 - [ ] subdomain: cattle.davidgpohl.com
+- [ ] this is cool https://mertbakir.gitlab.io/hugo/last-modified-date-in-hugo/
